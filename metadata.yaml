@@ -1,0 +1,40 @@
+_repo: The-Delectable-Duchy_12277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- GITenberg
+tableOfContents: 'Prologue -- The spinster''s Maying -- Daphnis -- When the sap rose
+  -- The paupers -- Cuckoo Valley Railway -- The conspiracy aboard the "Midas" --
+  Legends of St. Piran: St. Piran and the millstone; St. Piran and the visitation
+  -- In the train: Punch''s under-study; A corrected contempt -- Woon Gate -- From
+  a cottage in Gantick: The mourner''s horse; Silhouettes -- The drawn blind -- A
+  golden wedding -- School friends -- Parents and children: The family Bible; Boanerges
+  -- Two monuments -- Egg-stealing -- Seven-an''-six -- The regent''s wager -- Love
+  of Naomi -- The prince of Abyssinia''s postbag: An interruption; The great fire
+  on Freethy''s Quay.'
+title: The Delectable Duchy
+url: http://www.gutenberg.org/ebooks/12277
